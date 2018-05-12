@@ -1,0 +1,54 @@
+_repo: The-Cathedrals-of-Great-BritainTheir-History-and-Architecture_43402
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Symington, James Ayton
+    aliases:
+    - Symington, J. Ayton
+    - Symington, J. A. (James Ayton)
+    gutenberg_agent_id: '40339'
+    url: http://www.gutenberg.org/2009/agents/40339
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+  - agent_name: James, Helen M.
+    aliases:
+    - James, H. M.
+    - James, M. Helen
+    gutenberg_agent_id: '43710'
+    url: http://www.gutenberg.org/2009/agents/43710
+  - agent_name: Crickmore, H.
+    alias: Crickmore, Henry
+    gutenberg_agent_id: '42187'
+    url: http://www.gutenberg.org/2009/agents/42187
+covers:
+- cover_type: archival
+  image_path: 43402-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Ditchfield, P. H. (Peter Hampson)
+    aliases:
+    - Ditchfield, Peter Hampson
+    - Ditchfield, Peter H. (Peter Hampson)
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '2767'
+    url: http://www.gutenberg.org/2009/agents/2767
+description: ''
+gutenberg_issued: '2013-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- Great Britain'
+- !lcc 'NA'
+- !lcsh 'Cathedrals -- Great Britain'
+title: 'The Cathedrals of Great Britain: Their History and Architecture'
+url: http://www.gutenberg.org/ebooks/43402
